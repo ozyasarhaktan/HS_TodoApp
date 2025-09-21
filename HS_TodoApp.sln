@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36511.14 d17.14
+VisualStudioVersion = 17.14.36511.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS_TodoApp.Core", "HS_TodoApp.Core\HS_TodoApp.Core.csproj", "{3F72FBD6-E0FE-421E-81DC-0C88BB8146E1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HS_TodoApp.DAL", "HS_TodoApp.DAL\HS_TodoApp.DAL.csproj", "{A167E10D-FB5E-487A-BCC5-61863D2BD5E4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{3F72FBD6-E0FE-421E-81DC-0C88BB8146E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3F72FBD6-E0FE-421E-81DC-0C88BB8146E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3F72FBD6-E0FE-421E-81DC-0C88BB8146E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A167E10D-FB5E-487A-BCC5-61863D2BD5E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A167E10D-FB5E-487A-BCC5-61863D2BD5E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A167E10D-FB5E-487A-BCC5-61863D2BD5E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A167E10D-FB5E-487A-BCC5-61863D2BD5E4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
